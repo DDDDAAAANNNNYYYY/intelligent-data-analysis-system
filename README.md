@@ -1,0 +1,2 @@
+# intelligent-data-analysis-system
+This is an integrated intelligent data analysis system(short for, IDAS), which temporarily can be used to analyse the flight data of the aerial vehicles using the famous APM or pixhawk source code. I would keep updating my SVM and other machine learing methods to automatically predict and manage the healthy of the vehicle status in the condition of off-board or even on-board in the soon late future.
